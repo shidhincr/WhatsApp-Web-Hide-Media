@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "WhatsApp Web Hide Media",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Hide the auto downloaded media in Whatsapp web client",
+    "description": "The description of the application"
+  }
+}
