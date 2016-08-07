@@ -251,7 +251,7 @@ module.exports = function (grunt) {
       chrome: [
       ],
       dist: [
-        'imagemin',
+        //'imagemin',
         'svgmin'
       ],
       test: [

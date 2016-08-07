@@ -1,8 +1,8 @@
 {
-    "name": "Whatsapp Web Hide Media ( Images )",
-    "version": "0.0.44",
+    "name": "Watsapp Web Hide Media ( Images )",
+    "version": "0.0.48",
     "manifest_version": 2,
-    "description": "Here is a chrome extension for Whatsapp web client to hide the media (Images) by default, and show/hide when required (on mouseover)",
+    "description": "Here is a chrome extension for Watsapp web client to hide the media (Images) by default, and show/hide when required (on mouseover)",
     "icons": {
         "16": "images/icon-16.png",
         "128": "images/icon-128.png"
